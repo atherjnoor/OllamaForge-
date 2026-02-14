@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/ollamaforge/__init__.py
+src/ollamaforge/launcher.py
+src/ollamaforge.egg-info/PKG-INFO
+src/ollamaforge.egg-info/SOURCES.txt
+src/ollamaforge.egg-info/dependency_links.txt
+src/ollamaforge.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+[project]
+name = "ollamaforge"
+version = "0.1.0"
+description = "Simple launcher for local Ollama coder models"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["typer"]
+
+[project.scripts]
+ollamaforge = "ollamaforge.launcher:app"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
